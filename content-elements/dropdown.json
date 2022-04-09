@@ -1,0 +1,46 @@
+[
+  {
+    "id": "dropdown-RnpUCb",
+    "formData": {
+      "buttonText$es": "Enviar",
+      "placeholderText$es": "Opciones",
+      "displayInKeyboard$es": true,
+      "markdown$es": true,
+      "typing$es": true,
+      "message$es": "Selecciones una opcion",
+      "options$es": [
+        {
+          "label": "Hola uwu",
+          "value": "Hola"
+        },
+        {
+          "label": "Adios uwu",
+          "value": "Adios"
+        }
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T15:38:27.191Z",
+    "modifiedOn": "2022-04-08T15:44:34.514Z"
+  },
+  {
+    "id": "dropdown-beHAS1",
+    "formData": {
+      "buttonText$es": "Enviar",
+      "placeholderText$es": "Opcion",
+      "displayInKeyboard$es": true,
+      "markdown$es": true,
+      "typing$es": true,
+      "message$es": "Seleccione una opcion",
+      "options$es": [
+        {
+          "label": "Servicios",
+          "value": "1"
+        }
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T15:54:45.166Z",
+    "modifiedOn": "2022-04-08T15:54:45.166Z"
+  }
+]

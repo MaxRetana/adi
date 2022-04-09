@@ -1,0 +1,68 @@
+{
+  "locked": false,
+  "disabled": false,
+  "private": false,
+  "details": {
+    "website": "",
+    "phoneNumber": "",
+    "emailAddress": "",
+    "termsConditions": "",
+    "privacyPolicy": "",
+    "avatarUrl": "",
+    "coverPictureUrl": ""
+  },
+  "$schema": "../../bot.config.schema.json",
+  "description": "Small Talk",
+  "active": true,
+  "version": "12.26.12",
+  "author": "Botpress, Inc.",
+  "license": "AGPL-3.0",
+  "imports": {
+    "modules": [],
+    "incomingMiddleware": [],
+    "outgoingMiddleware": [],
+    "contentTypes": [
+      "builtin_action-button",
+      "builtin_audio",
+      "builtin_card",
+      "builtin_carousel",
+      "dropdown",
+      "builtin_file",
+      "builtin_image",
+      "builtin_location",
+      "builtin_single-choice",
+      "builtin_text",
+      "builtin_video"
+    ]
+  },
+  "dialog": {
+    "timeoutInterval": "5m"
+  },
+  "logs": {
+    "expiration": "1 week"
+  },
+  "defaultLanguage": "es",
+  "languages": [
+    "es"
+  ],
+  "id": "adi",
+  "name": "Adi",
+  "pipeline_status": {
+    "current_stage": {
+      "id": "prod",
+      "promoted_on": "2022-04-08T15:09:34.399Z",
+      "promoted_by": "jretana0@ucol.mx"
+    }
+  },
+  "messaging": {
+    "id": "6fdc6cfc-0c68-469b-851a-cfdd557efac9",
+    "token": "77456c1c-1648-4ed6-9a08-2cc5ca9a1c5c.3jNM+MlyQd4vrhwLOwAZ5iXkZaWoAhGGk/x2H9PEKYj+2HbJlw3aW/GJvM6Qlim2XxoPSpqKBo+OcChxnoTlFjdc",
+    "channels": {
+      "smooch": {
+        "enable": true,
+        "keyId": "app_62508eb1d75d5100f4503957",
+        "secret": "MnWhuNZkVopMgXNoWy2NZV_0yzMu71H_jp908EFFfQCTOWcvD2OTDjUiGkqwUtTkcIlk4mPZ4COw6VPp7BQLxg"
+      }
+    }
+  }
+}

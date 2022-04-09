@@ -1,0 +1,195 @@
+[
+  {
+    "id": "builtin_text-iVBzXn",
+    "formData": {
+      "text$en": "Pardon, je n'ai pas compris. Veuillez me poser un autre question.",
+      "typing$en": true,
+      "text$es": "Pardon, je n'ai pas compris. Veuillez me poser un autre question.",
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-07-01T18:28:03.566Z",
+    "modifiedOn": "2022-04-08T15:11:00.428Z"
+  },
+  {
+    "id": "builtin_text-error",
+    "formData": {
+      "text$en": "😯 Oops! We've got a problem. Please try something else while we're fixing it 🔨",
+      "typing$en": true,
+      "text$es": "Asegurate de usar opciones validas, compa!",
+      "typing$es": true,
+      "markdown$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2019-09-03T18:58:10.702Z",
+    "modifiedOn": "2022-04-08T17:08:38.111Z"
+  },
+  {
+    "id": "builtin_text-GESIo_",
+    "formData": {
+      "text$es": "Hola!, Mi nombre es Adi, en que te puedo ayudar?",
+      "markdown$es": false,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T15:12:20.055Z",
+    "modifiedOn": "2022-04-08T15:18:52.248Z"
+  },
+  {
+    "id": "builtin_text-5SzDoX",
+    "formData": {
+      "text$es": "Hola! :D mi nombre es Adi.\nSoy tu ayudante para entender el funcionamineto del sistema llamdo SICADI.\nCual es el tuyo?",
+      "markdown$es": true,
+      "typing$es": true,
+      "variations$es": [
+        "Buen dia uwu yo soy Adi.\nSoy tu ayudante para entender el funcionamineto del sistema llamdo SICADI.\nQuien eres tu?"
+      ]
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T15:19:31.581Z",
+    "modifiedOn": "2022-04-08T19:31:22.082Z"
+  },
+  {
+    "id": "builtin_text-TzQpVz",
+    "formData": {
+      "text$es": "Te doy la bienvenida, {{user.Name}}",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T15:22:30.313Z",
+    "modifiedOn": "2022-04-08T15:28:01.710Z"
+  },
+  {
+    "id": "builtin_text-TEACh3",
+    "formData": {
+      "text$es": "-Servicios\n-Horario\n-Ubicacion\n-Telefonos\n-Contacto\n\nASEGURATE DE ESCRIBIR LA OPCION CORRECTAMENTE",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T15:34:06.770Z",
+    "modifiedOn": "2022-04-08T17:20:58.512Z"
+  },
+  {
+    "id": "builtin_text-ZHnbHA",
+    "formData": {
+      "text$es": "Los servicios que ofrecemos son: Calendario, Directorio, Preguntas frecuentes",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T16:30:07.744Z",
+    "modifiedOn": "2022-04-08T17:01:54.340Z"
+  },
+  {
+    "id": "builtin_text-gHmSD1",
+    "formData": {
+      "text$es": "Estamos ubicados en: Calle La Misma 123 Col La Otra",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T16:55:48.126Z",
+    "modifiedOn": "2022-04-08T16:55:48.126Z"
+  },
+  {
+    "id": "builtin_text-p5KWoX",
+    "formData": {
+      "text$es": "Nuestro horario es: 13:00 a 17:00",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T16:56:37.813Z",
+    "modifiedOn": "2022-04-08T16:56:37.813Z"
+  },
+  {
+    "id": "builtin_text-25VJlo",
+    "formData": {
+      "text$es": "3123123123",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T16:57:28.662Z",
+    "modifiedOn": "2022-04-08T16:57:28.662Z"
+  },
+  {
+    "id": "builtin_text-C-HaSE",
+    "formData": {
+      "text$es": "Facebook.com\nCorreo@ejemplo.com",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T16:58:09.228Z",
+    "modifiedOn": "2022-04-08T16:58:09.228Z"
+  },
+  {
+    "id": "builtin_text-ZQp5PD",
+    "formData": {
+      "text$es": "Elije la opcion",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T17:21:07.746Z",
+    "modifiedOn": "2022-04-08T17:33:42.992Z"
+  },
+  {
+    "id": "builtin_text-2KGCRh",
+    "formData": {
+      "text$es": "-Servicios = 1\n-Ubicacion = 2\n-Horario = 3\n-Telefonos = 4\n-Contacto = 5\n-Salir = 6",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T17:28:51.949Z",
+    "modifiedOn": "2022-04-08T19:09:03.677Z"
+  },
+  {
+    "id": "builtin_text-jNlpR_",
+    "formData": {
+      "text$es": "Que te vaya bien uwu",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T19:10:05.977Z",
+    "modifiedOn": "2022-04-08T19:10:05.977Z"
+  },
+  {
+    "id": "builtin_text-EH6v4I",
+    "formData": {
+      "text$es": "https://www.google.com/maps/place/Colima+University+Campus+Coquimatlán/@19.2251957,-103.7972693,14z/data=!4m5!3m4!1s0x84254f41392311df:0x8d2584f89330bcc4!8m2!3d19.2114509!4d-103.8039311",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T19:14:33.755Z",
+    "modifiedOn": "2022-04-08T19:14:33.755Z"
+  },
+  {
+    "id": "builtin_text-N6kN6T",
+    "formData": {
+      "text$es": "Ubicados en: Km. 9 Carretera, Colima - Coquimatlán, Jardines del Llano, 28400 Coquimatlán, Col.\nLink Google Maps: https://goo.gl/maps/iks4ibdWmrqkW1oPA ",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T19:23:07.184Z",
+    "modifiedOn": "2022-04-08T19:23:07.184Z"
+  },
+  {
+    "id": "builtin_text-uQll-l",
+    "formData": {
+      "text$es": "Estas son las opciones que te puedo ofrecer\npara que sepas un poco de nosotros.",
+      "markdown$es": true,
+      "typing$es": true
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T19:29:44.002Z",
+    "modifiedOn": "2022-04-08T19:29:44.002Z"
+  }
+]

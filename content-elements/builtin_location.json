@@ -1,0 +1,15 @@
+[
+  {
+    "id": "builtin_location-i3AVbF",
+    "formData": {
+      "typing$es": true,
+      "latitude$es": 19.211822851260248,
+      "longitude$es": 103.8039855917195,
+      "address$es": "Km. 9 Carretera, Colima - Coquimatlán, Jardines del Llano, 28400 Coquimatlán, Col.",
+      "title$es": "Campus Coquimatlan"
+    },
+    "createdBy": "admin",
+    "createdOn": "2022-04-08T19:17:54.223Z",
+    "modifiedOn": "2022-04-08T19:19:22.355Z"
+  }
+]
